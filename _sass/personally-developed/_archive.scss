@@ -1,0 +1,21 @@
+.this {
+  list-style: none;
+  background-color: $pd-yellow; 
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.past {
+  list-style: none;
+  padding: 10px;
+}
+
+#archive ul li time {
+  padding-right: 10px;
+  font-family: $pd-font-family-monospace; 
+  font-size: 1.1em; 
+  &::after {
+    content: "•";
+    padding-left: 10px;
+  }
+}

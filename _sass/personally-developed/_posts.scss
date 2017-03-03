@@ -1,0 +1,39 @@
+#post-list {
+  padding: 0px;
+  list-style-type: none;
+}
+
+.post {
+  margin: 0px 0px 60px 0px;
+}
+
+.meta {
+  color: #777;
+}
+
+.link-arrow {
+  @extend .meta;
+}
+
+.update { 
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  background-color: $pd-yellow; 
+}
+
+
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  line-height: 1.42857;
+  word-break: break-all;
+  word-wrap: break-word; 
+}
+code {
+  background-color: $pd-yellow;
+  font-family: $pd-font-family-monospace;
+  white-space: pre-wrap;
+  font-size: 90%
+}
