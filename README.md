@@ -4,6 +4,8 @@ A simple, one column theme for Jekyll that puts your content first. Also
 available as a [stand-alone
 Jekyll scaffold](https://github.com/jonathanpike/personally-developed) to use with [GitHub Pages](https://pages.github.com/).
 
+![theme preview](/screenshot.png)
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
