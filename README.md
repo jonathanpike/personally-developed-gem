@@ -22,11 +22,15 @@ theme: personally-developed
 
 And then execute:
 
-    $ bundle
+```
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install personally-developed
+```
+$ gem install personally-developed
+```
 
 ## Usage
 
@@ -34,26 +38,30 @@ Or install it yourself as:
 
 You'll need to include the [jekyll-paginate](https://github.com/jekyll/jekyll-paginate) gem for Personally Developed to work correctly. 
 
-1. Add the following to your site's `Gemfile`:
+Add the following to your site's `Gemfile`:
 
-  ```ruby
-  gem 'jekyll-paginate'
-  ```
+```ruby
+gem 'jekyll-paginate'
+```
 
-2. Add the following to your site's `_config.yml`:
+Add the following to your site's `_config.yml`:
 
-  ```yml
-  gems:
-    - jekyll-paginate
-  ```
+```yml
+gems:
+  - jekyll-paginate
+```
 
-3. And then execute:
+And then execute:
 
-    $ bundle
+```
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install jekyll-paginate
+```
+$ gem install jekyll-paginate
+```
 
 --
 
@@ -61,26 +69,30 @@ Or install it yourself as:
 
 Personally Developed supports the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin right out of the box.  To use it:
 
-1. Add the following to your site's `Gemfile`:
+Add the following to your site's `Gemfile`:
 
-  ```ruby
-  gem 'jekyll-seo-tag'
-  ```
+```ruby
+gem 'jekyll-seo-tag'
+```
 
-2. Add the following to your site's `_config.yml`:
+Add the following to your site's `_config.yml`:
 
-  ```yml
-  gems:
-    - jekyll-seo-tag
-  ```
+```yml
+gems:
+  - jekyll-seo-tag
+```
 
-3. And then execute:
+And then execute:
 
-    $ bundle
+```
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install jekyll-seo-tag
+```
+$ gem install jekyll-seo-tag
+```
 
 --
 
