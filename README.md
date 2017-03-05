@@ -6,6 +6,8 @@ Jekyll scaffold](https://github.com/jonathanpike/personally-developed) to use wi
 
 ![theme preview](/screenshot.png)
 
+### View a [live demo](https://jonathanpike.net/personally-developed/)!
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
