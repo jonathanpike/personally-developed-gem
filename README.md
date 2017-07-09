@@ -6,7 +6,7 @@ Jekyll scaffold](https://github.com/jonathanpike/personally-developed) to use wi
 
 ![theme preview](/screenshot.png)
 
-### View a [live demo](https://jonathanpike.net/personally-developed/)!
+### View a [live demo](http://jonathanpike.github.io/personally-developed/)!
 
 ## Installation
 
